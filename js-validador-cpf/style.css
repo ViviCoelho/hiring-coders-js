@@ -1,0 +1,21 @@
+body {
+  background-color: azure;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 5px solid black;
+}
+
+.jumbotron {
+  margin-top: 5px;
+  background-color: azure;
+}
+.formulario {
+    margin-top: 5%;
+  }
+
+.form-group, .page-header {
+  width: 70%;
+  
+}
